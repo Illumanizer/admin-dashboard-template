@@ -4,4 +4,6 @@ Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Ligh
 
 Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+# Screenshot
+
+![image](https://github.com/Illumanizer/admin-dashboard-template/assets/74318570/9b6988c0-65cf-4e80-9e3f-a00d4082e558)
